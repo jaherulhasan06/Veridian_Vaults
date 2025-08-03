@@ -1,22 +1,115 @@
-# Veridian Vaults - A Decentralized Time Capsule Protocol
+# Forever Living Products - Easy Hinglish Benefits
 
-## Project Description
-Veridian Vaults is a smart contract that enables users to create encrypted, time-locked vaults of information. The contents of each vault remain inaccessible until a specified future timestamp, offering a secure and novel way to send secrets to the future.
-
-## Project Vision
-To allow the transfer and storage of encrypted data that can only be accessed by its rightful owner after a defined time, promoting innovation in digital inheritance, collectibles, and future-gifting.
-
-## Key Features
-- Encrypted data vaults with time-based access control
-- Vault ownership and access restricted to creator
-- Event-based architecture for vault creation and unlocking
-
-## Future Scope
-- NFT-based access rights
-- Chainlink Automation for timed execution
-- Decentralized file storage (e.g., IPFS)
-- Vault trading and speculation marketplace
+Welcome to the quick reference guide of **Forever Living Products**. Yeh file har product ke **5 simple benefits** explain karti hai - jaise hum ek bacche ko samjha rahe hoon 
 
 
-## Contract Address: 0x3eDACCcee6Af460b52A82446bACF3F206b3990bD
-<img width="1920" height="1080" alt="Screenshot 2025-07-29 125704" src="https://github.com/user-attachments/assets/b39901b8-2060-41ab-be04-d3b61b313ce9" />
+##  Product List & Benefits
+
+### 1. **Forever Aloe Peaches**   
+*Tasty aloe + peach health drink*
+
+- ✅ Pet ko strong banata hai (digestion improve).
+- ✅ Skin ko clean aur glowing banata hai.
+- ✅ Eyes ko healthy rakhta hai.
+- ✅ Immunity ko boost karta hai.
+- ✅ Colon cancer se bachav mein madad karta hai.
+
+### 2. **Aloe Ever-Shield**   
+*Gentle deodorant with aloe*
+
+- ✅ Pasine ki smell door karta hai.
+- ✅ Skin ko jalata nahi.
+- ✅ Long-lasting freshness.
+- ✅ Har din use ke liye safe.
+- ✅ Boys & Girls dono ke liye.
+
+### 3. **Aloe Vera Gelly**   
+*Skin soothing aloe gel*
+
+- ✅ Jalne ya sunburn pe thandak.
+- ✅ Pimples, scratches mein aram.
+- ✅ Skin ko soft banata hai.
+- ✅ Cuts, rashes mein madad.
+- ✅ Baby skin ke liye bhi safe.
+
+### 4. **Forever Bhringraj**  
+*Hair & mind herbal support*
+
+- ✅ Baal strong aur shiny banata hai.
+- ✅ Hair fall ko control karta hai.
+- ✅ Stress kam karta hai.
+- ✅ White baalon ko roknay mein madad.
+- ✅ Hair growth fast karta hai.
+
+### 5. **Agri Plus (ARGI+)**   
+*Workout energy booster*
+
+- ✅ Body mein energy lata hai.
+- ✅ Blood flow improve karta hai.
+- ✅ Muscles ko support karta hai.
+- ✅ Thakaan kam karta hai.
+- ✅ Heart health ke liye accha hai.
+
+### 6. **Forever Lite Ultra** 
+*Healthy protein shake*
+
+- ✅ Meal replace kar sakte ho.
+- ✅ Weight control mein madad.
+- ✅ Full protein for body.
+- ✅ Energy all day.
+- ✅ Tasty & healthy combo.
+
+### 7. **Forever Bee Honey**   
+*Pure natural shahed*
+
+- ✅ Instant energy milti hai.
+- ✅ Sardi-jukaam mein faydemand.
+- ✅ Chini se healthy option.
+- ✅ Skin aur baalon ke liye accha.
+- ✅ Immunity ko strong banata hai.
+
+### 8. **Nature-Min** 
+*Mineral tablet for body strength*
+
+- ✅ Haddi-daant strong banata hai.
+- ✅ Energy aur focus badhata hai.
+- ✅ Body ki zarurat ki minerals deta hai.
+- ✅ Thyroid & brain function ke liye accha.
+- ✅ Weakness ko door karta hai.
+  
+### 9. **Forever C Plus (Absorbent-C)**   
+*Vitamin C + fiber support*
+
+- ✅ Immune system ko strong banata hai.
+- ✅ Cold-cough se bachav.
+- ✅ Skin glow karta hai.
+- ✅ Iron absorb hone mein help.
+- ✅ Energy level maintain karta hai.
+
+### 10. **Arctic Sea (Omega 3)** 
+*Fish & olive oil capsule*
+
+- ✅ Dimaag tez karta hai.
+- ✅ Dil ko healthy rakhta hai.
+- ✅ Joints ko smooth banata hai.
+- ✅ Eyesight improve karta hai.
+- ✅ Skin soft aur clear rakhta hai.
+
+### 11. **Aloe Berry Nectar**  
+*Aloe + cranberry + apple juice*
+
+- ✅ Pet clean rakhta hai.
+- ✅ Urine infection se bachata hai.
+- ✅ Skin fresh aur bright karta hai.
+- ✅ Body ko detox karta hai.
+- ✅ Taste me yummy bhi hai.
+
+
+### 12. **Aloe Vera Gel** 
+*Pure aloe vera drinking gel*
+
+- ✅ Kabj aur gas se relief.
+- ✅ Skin aur hair ko nourish karta hai.
+- ✅ Immunity ko strong banata hai.
+- ✅ Weight control mein helpful.
+- ✅ Daily health ke liye perfect drink.
